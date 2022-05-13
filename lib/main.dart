@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:the_editor/screens/editor_screen.dart';
 
 void main() {
-  runApp(const MyApp());
+  //runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {

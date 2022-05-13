@@ -58,6 +58,7 @@ android {
         }
     }
     buildToolsVersion '31.0.0'
+    namespace 'com.example.the_editor'
 }
 
 flutter {
